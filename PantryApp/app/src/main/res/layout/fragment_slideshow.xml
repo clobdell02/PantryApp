@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ConstraintLayout Parent - Allows Positioning gof child views based on start, end, top, and botton constraints -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/firstConstraintLayout"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".ui.slideshow.SlideshowFragment">
+
+    <!-- LinearLayout allows contents to fill available space. This means the ListView expands to meet size requirements-->
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+        <!-- Another constraint view to hold pantry button and search bar-->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_wrap">
+        <android.widget.SearchView
+            android:id="@+id/searchView1"
+            android:layout_width="196dp"
+            android:layout_height="46dp"
+            android:iconifiedByDefault="false"
+            android:queryHint="Filter items"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+        <Button
+            android:id="@+id/additem_shopping"
+            android:layout_width="184dp"
+            android:layout_height="48dp"
+            android:layout_marginEnd="2dp"
+            android:text="Add Item"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <!-- ExpandableListView create 2d list - Categories expand and can be filled with lists of items -->
+    <ExpandableListView
+        android:id="@+id/pantry_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_wrap" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

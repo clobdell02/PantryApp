@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PantryApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_pantry">Pantry</string>
+    <string name="menu_gallery">Settings</string>
+    <string name="menu_slideshow">Shopping List</string>
+
+    <string name="PantryApp">dropDownMenuExample</string>
+    <string-array name="notificationDates">
+        <item>One Day</item>
+        <item>Two Days</item>
+        <item>Five Days</item>
+        <item>One Week</item>
+        <item>Two Weeks</item>
+    </string-array>
+
+    <string name="action_settings">Search/Sort</string>
+    <string name="notification_time">Time of notification</string>
+    <string name="default_shelf_lives">Default Shelf Lives</string>
+    <string name="auto_populate_shopping_list">Auto Populate Shopping List</string>
+    <string name="notification_period">Notification Period</string>
+    <string name="pick_time">PICK TIME</string>
+
+    <string-array name="category_array">
+        <item>Meat</item>
+        <item>Poultry</item>
+        <item>Vegetable</item>
+        <item>Grain</item>
+        <item>Seafood</item>
+        <item>Dairy</item>
+        <item>Fruit</item>
+        <item>Misc</item>
+    </string-array>
+
+</resources>

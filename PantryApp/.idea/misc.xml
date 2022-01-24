@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/activity_additem_itemstable.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/activity_additem_shopping.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/activity_main.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/app_bar_main.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/content_main.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/fragment_gallery.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/fragment_home.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/group_list_item.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/list_item.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/layout/nav_header_main.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/menu/main.xml" value="0.3625" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/Joeca/Desktop/Pantry/PantryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.30052083333333335" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/activity_main.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/app_add_item_pantry.xml" value="0.2796875" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/app_bar_main.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/content_main.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/fragment_gallery.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/fragment_home.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/clobd/Documents/Pantry/PantryApp/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_additem_itemstable.xml" value="0.3" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_additem_pantry.xml" value="0.3" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_additem_shopping.xml" value="0.36" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_searchsort.xml" value="0.2" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/activity_searchsort_shopping.xml" value="0.268" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/app_add_item_groccery.xml" value="0.268" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/app_add_item_pantry.xml" value="0.268" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/app_bar_main.xml" value="0.268" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/app_search_sort.xml" value="0.36" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/expire_update_layout.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/fragment_gallery.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/fragment_home.xml" value="0.36" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.36" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/group_list_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/list_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/nav_header_main.xml" value="0.36" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/layout/shopping_list_item.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/cpend/Schoolwork/Pantry/PantryApp/app/src/main/res/menu/main.xml" value="0.3" />
+        <entry key="app/src/main/res/drawable/dropdown_image_loader.xml" value="0.2109375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2109375" />
+        <entry key="app/src/main/res/drawable/minus_image_loader.xml" value="0.2109375" />
+        <entry key="app/src/main/res/drawable/plus_image_loader.xml" value="0.2109375" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/textview_border.xml" value="0.2109375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dopdown_list_spinner.xml" value="0.11231884057971014" />
+        <entry key="app/src/main/res/layout/expire_update_layout.xml" value="0.1118659420289855" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.33358468485660314" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/group_list_item.xml" value="0.11231884057971014" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/shopping_list_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/update_expire.xml" value="0.1118659420289855" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.175" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2109375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
